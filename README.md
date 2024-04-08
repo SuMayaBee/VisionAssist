@@ -1,3 +1,4 @@
+# VisionAssist
 VisionAssist is an innovative app designed to empower individuals with visual impairments by providing them with tools to better engage with their surroundings. With the help of advanced image recognition technology, VisionAssist enables users to recognize and describe details about objects, images, and text in their environment.
 
 ## Features
